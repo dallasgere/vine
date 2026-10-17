@@ -1,0 +1,122 @@
+{
+  "name": "vine",
+  "displayName": "Vine Theme Pack",
+  "icon": "assets/vine.png",
+  "description": "A collection of dark VS Code themes inspired by favorite editor palettes, with bordered and unbordered variants.",
+  "version": "1.20.2",
+  "publisher": "local-themes",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vine",
+    "dark",
+    "themes",
+    "sea-glass",
+    "contrast",
+    "accessibility"
+  ],
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/check.mjs",
+    "package": "npm run build && npm test && python3 scripts/package.py"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vine: Sea Glass",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sea-glass-color-theme.json"
+      },
+      {
+        "label": "Vine: Sea Glass Unbordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sea-glass-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: Dark Modern 2026",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-modern-2026-color-theme.json"
+      },
+      {
+        "label": "Vine: Dark Modern 2026 Unbordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-modern-2026-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: Tokyo Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night-color-theme.json"
+      },
+      {
+        "label": "Vine: Tokyo Night Unbordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: Chrome DevTools",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chrome-devtools-color-theme.json"
+      },
+      {
+        "label": "Vine: Chrome DevTools Unbordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chrome-devtools-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: Sublime Text 4 Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sublime-text-4-dark-color-theme.json"
+      },
+      {
+        "label": "Vine: Sublime Text 4 Dark Unbordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sublime-text-4-dark-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: Firefox DevTools",
+        "uiTheme": "vs-dark",
+        "path": "./themes/firefox-devtools-color-theme.json"
+      },
+      {
+        "label": "Vine: Firefox DevTools Unbordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/firefox-devtools-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: Rosé Pine Neutral",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rose-pine-neutral-color-theme.json"
+      },
+      {
+        "label": "Vine: Rosé Pine Neutral Unbordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rose-pine-neutral-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: GitHub Dark Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-dark-default-color-theme.json"
+      },
+      {
+        "label": "Vine: GitHub Dark Default Unbordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-dark-default-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: b&w",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bw-color-theme.json"
+      },
+      {
+        "label": "Vine: b&w Unbordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bw-unbordered-color-theme.json"
+      }
+    ]
+  }
+}
