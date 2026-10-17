@@ -4,7 +4,7 @@
   "icon": "assets/vine.png",
   "description": "A collection of dark VS Code themes inspired by favorite editor palettes, with bordered and unbordered variants.",
   "version": "1.0.0",
-  "publisher": "local-themes",
+  "publisher": "dallasgere",
   "license": "MIT",
   "engines": {
     "vscode": "^1.85.0"
@@ -20,10 +20,9 @@
     "contrast",
     "accessibility"
   ],
-  "scripts": {
-    "build": "node scripts/build.mjs",
-    "test": "node scripts/check.mjs",
-    "package": "npm run build && npm test && python3 scripts/package.py"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dallasgere/vine.git"
   },
   "contributes": {
     "themes": [
