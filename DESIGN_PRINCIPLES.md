@@ -6,6 +6,8 @@ Vine brings favorite dark palettes together with a consistent feel. These are th
 
 Syntax should be clear without being harsh. Comments stay readable but quieter than the code around them. Selections, search highlights, and Git changes should leave the text easy to read.
 
+Contrast includes the separation between syntax colors and between active and secondary UI elements. Avoid making every role equally bright: use deeper backgrounds, distinct syntax hues, and quieter comments and inactive controls. Keep explicit syntax foregrounds at least 4.5:1 against the editor background, and check selections and the current line separately.
+
 Each palette keeps its own character. The b&w themes use grayscale and typography to distinguish syntax, with color reserved for status indicators and terminal output.
 
 ## Keep the editor calm
@@ -13,6 +15,8 @@ Each palette keeps its own character. The b&w themes use grayscale and typograph
 Use simple backgrounds, subtle highlights, and restrained accents. Tabs should feel connected to the editor, and scrollbars and the minimap should stay in the background.
 
 The terminal and editor share the same background for a continuous workspace.
+
+Editor and terminal cursors use bright white (`#FFFFFF`) in every palette so they remain easy to locate among syntax colors.
 
 ## Offer two ways to frame the workspace
 
