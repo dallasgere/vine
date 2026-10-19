@@ -15,7 +15,7 @@ Feel free to improve these and open issues if something is off.
 
 ## Themes
 
-Version 3.0.0 includes eight palettes, each with bordered and unbordered variants, for 16 themes total.
+Version 4.0.0 includes eleven palettes, each with bordered and unbordered variants, for 22 themes total.
 
 ## Screenshots
 
@@ -67,6 +67,22 @@ Version 3.0.0 includes eight palettes, each with bordered and unbordered variant
 
 ![Vine: Poimandres Unbordered theme screenshot](screenshots/poimandres-unbordered.png)
 
+### Rosé Pine Moon Neutral
+
+![Vine: Rosé Pine Moon Neutral theme screenshot](screenshots/rose-pine-moon-neutral.png)
+
+### Rosé Pine Moon Neutral Unbordered
+
+![Vine: Rosé Pine Moon Neutral Unbordered theme screenshot](screenshots/rose-pine-moon-neutral-unbordered.png)
+
+### Rosé Pine Neutral
+
+![Vine: Rosé Pine Neutral theme screenshot](screenshots/rose-pine-neutral.png)
+
+### Rosé Pine Neutral Unbordered
+
+![Vine: Rosé Pine Neutral Unbordered theme screenshot](screenshots/rose-pine-neutral-unbordered.png)
+
 ### Sublime Text 4 Dark
 
 ![Vine: Sublime Text 4 Dark theme screenshot](screenshots/sublime-text-4-dark.png)
@@ -83,10 +99,20 @@ Version 3.0.0 includes eight palettes, each with bordered and unbordered variant
 
 ![Vine: Tokyo Night Unbordered theme screenshot](screenshots/tokyo-night-unbordered.png)
 
+### Xcode 26 Dark
+
+![Vine: Xcode 26 Dark theme screenshot](screenshots/xcode-26-dark.png)
+
+### Xcode 26 Dark Unbordered
+
+![Vine: Xcode 26 Dark Unbordered theme screenshot](screenshots/xcode-26-dark-unbordered.png)
+
 # Thanks
 
 Thanks to these projects and their authors for the themes and palettes that inspired Vine:
 
+- [Apple Xcode](https://developer.apple.com/xcode/)
+- [Rosé Pine / Moon](https://github.com/rose-pine/vscode)
 - [Poimandres](https://github.com/drcmda/poimandres-theme)
 - [Visual Studio Code](https://github.com/microsoft/vscode)
 - [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme)

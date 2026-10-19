@@ -1,5 +1,16 @@
 # Changelog
 
+## 4.0.0 — 2026-10-19
+
+- Refreshed all 22 theme screenshots, named them by palette and border style, and ordered the README gallery alphabetically.
+- Added Xcode 26 Dark and Xcode 26 Dark Unbordered, inspired by Xcode 26 with cooler charcoal surfaces, soft pink/coral syntax, pale mint references, cyan declarations, and lavender library symbols. Includes Swift scope refinements, readable comments, shared editor/terminal backgrounds, white cursors, and familiar Git colors. The pack includes 22 themes across eleven palettes.
+- Refined both Graphite variants with a deeper blue-gray editor/terminal surface (`#282c34`), softer body text, subtly brighter bold declarations, and quieter strings, punctuation, comments, and surrounding UI. Softened keyword weight and type italics, and removed blanket bold styling from function calls and readonly names, retaining grayscale syntax, white cursors, familiar status colors, and both border styles.
+- Added Rosé Pine Neutral and Rosé Pine Neutral Unbordered with the original palette’s softer rose and pine hues, the same neutral charcoal surfaces as Moon Neutral, and Vine’s readability and status-color conventions.
+- Added Rosé Pine Moon Neutral and Rosé Pine Moon Neutral Unbordered: Moon-inspired syntax on neutral charcoal surfaces, with lifted pine and comments, white cursors, familiar Git colors, and matching editor/terminal backgrounds.
+- Refined both Sublime Text 4 variants against the bundled Mariana scheme: distinguished TypeScript function/method calls from definitions in TextMate highlighting, added semantic definition modifiers, and restored decorator, mapping-key, and markup details. Gently brightened blue-gray editor and terminal surfaces to `#202832`, preserving white cursors, familiar Git colors, and both border styles.
+- Brightened both Tokyo Night variants to a blue-violet editor and terminal background (`#1a1b26`), with coordinated sidebar, widget, hover, and guide colors. Preserved the syntax palette, quiet UI text, white cursors, Git colors, and bordered/unbordered styling.
+- Brightened both Firefox DevTools variants to Firefox’s charcoal editor and terminal surface (`#232327`), with lighter widgets, selections, and supporting surfaces. Matched comments, properties, parameters, and operators more closely to the Firefox palette while retaining Vine’s quiet UI, white cursors, familiar Git colors, and bordered/unbordered styling.
+
 ## 3.0.0 — 2026-10-18
 
 - Refreshed and renamed all 16 theme screenshots for the Marketplace listing.
