@@ -8,7 +8,7 @@ Syntax should be clear without being harsh. Comments stay readable but quieter t
 
 Contrast includes the separation between syntax colors and between active and secondary UI elements. Avoid making every role equally bright: use deeper backgrounds, distinct syntax hues, and quieter comments and inactive controls. Keep explicit syntax foregrounds at least 4.5:1 against the editor background, and check selections and the current line separately.
 
-Each palette keeps its own character. The b&w themes use grayscale and typography to distinguish syntax, with color reserved for status indicators and terminal output.
+Each palette keeps its own character. The Graphite themes use monochrome text and typography to distinguish syntax on a Chrome-inspired blue-gray background, with color reserved for status indicators and terminal output.
 
 ## Keep the editor calm
 

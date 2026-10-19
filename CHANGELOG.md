@@ -1,14 +1,17 @@
 # Changelog
 
-## 2.1.0 — Unreleased
+## 3.0.0 — 2026-10-18
 
+- Refreshed and renamed all 16 theme screenshots for the Marketplace listing.
+- Lifted both Chrome DevTools variants toward lighter charcoal surfaces, with editor and terminal backgrounds of `#1c1c1c`, slightly brighter supporting UI text, and unchanged syntax colors.
+- Replaced b&w and b&w Unbordered with Graphite and Graphite Unbordered: Chrome-inspired blue-gray editor and terminal backgrounds (`#363c46`), soft-white code text (`#f0f0f0`), readable secondary text, and balanced selections and guides. Monochrome syntax styles, familiar Git colors, and pure-white cursors are retained.
 - Softened navigation text, toolbar icons, panel borders, and Explorer selections across all themes so the surrounding UI is quieter than the code. Syntax colors, code and terminal text, white cursors, keyboard focus indicators, and Git colors are preserved.
 - Made the original-side diff gutter background transparent across all themes so inline additions do not get a misleading red spacer. Added-line shading stays green, and actual deletions retain their red line and text highlights.
 - Removed two legacy palette pairs and their theme definitions, screenshots, and current-pack references.
 - Added Vine: Poimandres and Vine: Poimandres Unbordered, bringing the current pack to 16 themes across eight palettes. These retain Poimandres' navy, mint, and pale-blue character with opaque comments and types, clearer selections, white cursors, and consistent TextMate and semantic syntax roles.
 - Matched the Sublime Text 4 Dark bordered title bar to the dark surrounding surface.
 - Removed the broad readonly semantic color override in both Sublime variants so `const` variable names stay light gray and remain distinct from purple keywords.
-- Muted editor and Explorer indent guides across all themes to dark gray (`#333333`), with a slightly brighter active editor guide (`#4A4A4A`).
+- Muted editor and Explorer indent guides across the pack, with slightly brighter active guides. Graphite uses blue-gray guides suited to its lighter background.
 
 ## 2.0.0
 
