@@ -10,8 +10,8 @@
     "editorGroupHeader.connectedTabsBackground": "#202122",
     "editorGroupHeader.tabsBorder": "#2A2B2C",
     "editor.inactiveSelectionBackground": "#27678260",
-    "editorIndentGuide.background1": "#8384854D",
-    "editorIndentGuide.activeBackground1": "#838485",
+    "editorIndentGuide.background1": "#333333",
+    "editorIndentGuide.activeBackground1": "#4A4A4A",
     "editor.selectionHighlightBackground": "#27678260",
     "list.dropBackground": "#3994BC1A",
     "activityBarBadge.background": "#307E9F",
@@ -362,7 +362,8 @@
     "diffEditorOverview.removedForeground": "#e98f8a80",
     "diffEditor.insertedTextBorder": "#00000000",
     "diffEditor.removedTextBorder": "#00000000",
-    "toolbar.hoverBackground": "#ffffff1f"
+    "toolbar.hoverBackground": "#ffffff1f",
+    "tree.indentGuidesStroke": "#333333"
   },
   "tokenColors": [
     {
