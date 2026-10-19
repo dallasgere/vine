@@ -55,22 +55,6 @@ Feel free to improve these and open issues if something is off.
 
 ![Vine: GitHub Dark Default Unbordered theme screenshot](screenshots/github-dark-default-unbordered.png)
 
-### Rosé Pine Neutral
-
-![Vine: Rosé Pine Neutral theme screenshot](screenshots/rose-pine-neutral.png)
-
-### Rosé Pine Neutral Unbordered
-
-![Vine: Rosé Pine Neutral Unbordered theme screenshot](screenshots/rose-pine-neutral-unbordered.png)
-
-### Sea Glass
-
-![Vine: Sea Glass theme screenshot](screenshots/sea-glass.png)
-
-### Sea Glass Unbordered
-
-![Vine: Sea Glass Unbordered theme screenshot](screenshots/sea-glass-unbordered.png)
-
 ### Sublime Text 4 Dark
 
 ![Vine: Sublime Text 4 Dark theme screenshot](screenshots/sublime-text-4-dark.png)
@@ -97,5 +81,4 @@ Thanks to these projects and their authors for the themes and palettes that insp
 - [Chrome DevTools](https://github.com/ChromeDevTools/devtools-frontend)
 - [Sublime Text / Mariana](https://www.sublimetext.com/blog/articles/sublime-text-4)
 - [Firefox DevTools](https://firefox-source-docs.mozilla.org/devtools-user/)
-- [Rosé Pine](https://github.com/rose-pine/vscode)
 - [GitHub / Primer](https://github.com/primer/github-vscode-theme)

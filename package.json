@@ -3,7 +3,7 @@
   "displayName": "Vine Theme Pack",
   "icon": "assets/vine.png",
   "description": "A collection of dark VS Code themes inspired by favorite editor palettes, with bordered and unbordered variants.",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "publisher": "dallasgere",
   "license": "MIT",
   "engines": {
@@ -16,9 +16,9 @@
     "vine",
     "dark",
     "themes",
-    "sea-glass",
     "contrast",
-    "accessibility"
+    "accessibility",
+    "poimandres"
   ],
   "repository": {
     "type": "git",
@@ -27,14 +27,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vine: Sea Glass",
+        "label": "Vine: Poimandres",
         "uiTheme": "vs-dark",
-        "path": "./themes/sea-glass-color-theme.json"
+        "path": "./themes/poimandres-color-theme.json"
       },
       {
-        "label": "Vine: Sea Glass Unbordered",
+        "label": "Vine: Poimandres Unbordered",
         "uiTheme": "vs-dark",
-        "path": "./themes/sea-glass-unbordered-color-theme.json"
+        "path": "./themes/poimandres-unbordered-color-theme.json"
       },
       {
         "label": "Vine: Dark Modern 2026",
@@ -85,16 +85,6 @@
         "label": "Vine: Firefox DevTools Unbordered",
         "uiTheme": "vs-dark",
         "path": "./themes/firefox-devtools-unbordered-color-theme.json"
-      },
-      {
-        "label": "Vine: Rosé Pine Neutral",
-        "uiTheme": "vs-dark",
-        "path": "./themes/rose-pine-neutral-color-theme.json"
-      },
-      {
-        "label": "Vine: Rosé Pine Neutral Unbordered",
-        "uiTheme": "vs-dark",
-        "path": "./themes/rose-pine-neutral-unbordered-color-theme.json"
       },
       {
         "label": "Vine: GitHub Dark Default",

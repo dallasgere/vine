@@ -1,14 +1,22 @@
 # Changelog
 
+## 2.1.0 — Unreleased
+
+- Removed two legacy palette pairs and their theme definitions, screenshots, and current-pack references.
+- Added Vine: Poimandres and Vine: Poimandres Unbordered, bringing the current pack to 16 themes across eight palettes. These retain Poimandres' navy, mint, and pale-blue character with opaque comments and types, clearer selections, white cursors, and consistent TextMate and semantic syntax roles.
+- Matched the Sublime Text 4 Dark bordered title bar to the dark surrounding surface.
+- Removed the broad readonly semantic color override in both Sublime variants so `const` variable names stay light gray and remain distinct from purple keywords.
+- Muted editor and Explorer indent guides across all themes to dark gray (`#333333`), with a slightly brighter active editor guide (`#4A4A4A`).
+
 ## 2.0.0
 
 A visual refresh focused on reducing the faded appearance of several palettes, improving syntax separation, and making cursors easier to find.
 
 ### Contrast and readability
 
-- Deepened backgrounds and refined contrast in Sea Glass, Tokyo Night, Chrome DevTools, Sublime Text 4 Dark, Firefox DevTools, Rosé Pine Neutral, and b&w, including both bordered and unbordered variants.
+- Deepened backgrounds and refined contrast in the existing palettes, including Tokyo Night, Chrome DevTools, Sublime Text 4 Dark, Firefox DevTools, and b&w, including both bordered and unbordered variants.
 - Enriched syntax colors in the affected color palettes while preserving each theme's character.
-- Gave properties and parameters distinct colors in Sea Glass, Tokyo Night, Chrome DevTools, Firefox DevTools, and Rosé Pine Neutral, with matching TextMate and semantic token rules.
+- Gave properties and parameters distinct colors in several palettes, including Tokyo Night, Chrome DevTools, and Firefox DevTools, with matching TextMate and semantic token rules.
 - Made comments, inactive tabs, line numbers, and other secondary details quieter so active content stands out more clearly.
 - Refined selection and current-line backgrounds alongside the deeper editor surfaces.
 - Kept editor, terminal, and gutter backgrounds matched, and kept syntax colors consistent between each theme's two variants.
@@ -34,18 +42,6 @@ A visual refresh focused on reducing the faded appearance of several palettes, i
 ## 1.0.0
 
 Initial release of Vine Theme Pack: nine dark palettes, each available in bordered and unbordered variants, for 18 themes total.
-
-### Included palettes
-
-- Sea Glass
-- Dark Modern 2026
-- Tokyo Night
-- Chrome DevTools
-- Sublime Text 4 Dark
-- Firefox DevTools
-- Rosé Pine Neutral
-- GitHub Dark Default
-- b&w
 
 ### Shared design
 
