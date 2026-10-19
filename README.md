@@ -13,17 +13,11 @@ So yea I basically wanted to create themes that all followed a similar design pa
 
 Feel free to improve these and open issues if something is off.
 
+## Themes
+
+Version 3.0.0 includes eight palettes, each with bordered and unbordered variants, for 16 themes total.
+
 ## Screenshots
-
-
-
-### b&w
-
-![Vine: b&w theme screenshot](screenshots/bw.png)
-
-### b&w Unbordered
-
-![Vine: b&w Unbordered theme screenshot](screenshots/bw-unbordered.png)
 
 ### Chrome DevTools
 
@@ -56,6 +50,22 @@ Feel free to improve these and open issues if something is off.
 ### GitHub Dark Default Unbordered
 
 ![Vine: GitHub Dark Default Unbordered theme screenshot](screenshots/github-dark-default-unbordered.png)
+
+### Graphite
+
+![Vine: Graphite theme screenshot](screenshots/graphite.png)
+
+### Graphite Unbordered
+
+![Vine: Graphite Unbordered theme screenshot](screenshots/graphite-unbordered.png)
+
+### Poimandres
+
+![Vine: Poimandres theme screenshot](screenshots/poimandres.png)
+
+### Poimandres Unbordered
+
+![Vine: Poimandres Unbordered theme screenshot](screenshots/poimandres-unbordered.png)
 
 ### Sublime Text 4 Dark
 

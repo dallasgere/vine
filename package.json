@@ -3,7 +3,7 @@
   "displayName": "Vine Theme Pack",
   "icon": "assets/vine.png",
   "description": "A collection of dark VS Code themes inspired by favorite editor palettes, with bordered and unbordered variants.",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "publisher": "dallasgere",
   "license": "MIT",
   "engines": {
@@ -18,7 +18,8 @@
     "themes",
     "contrast",
     "accessibility",
-    "poimandres"
+    "poimandres",
+    "graphite"
   ],
   "repository": {
     "type": "git",
@@ -97,14 +98,14 @@
         "path": "./themes/github-dark-default-unbordered-color-theme.json"
       },
       {
-        "label": "Vine: b&w",
+        "label": "Vine: Graphite",
         "uiTheme": "vs-dark",
-        "path": "./themes/bw-color-theme.json"
+        "path": "./themes/graphite-color-theme.json"
       },
       {
-        "label": "Vine: b&w Unbordered",
+        "label": "Vine: Graphite Unbordered",
         "uiTheme": "vs-dark",
-        "path": "./themes/bw-unbordered-color-theme.json"
+        "path": "./themes/graphite-unbordered-color-theme.json"
       }
     ]
   }
