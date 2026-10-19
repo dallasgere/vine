@@ -2,6 +2,7 @@
 
 ## 2.1.0 — Unreleased
 
+- Made the original-side diff gutter background transparent across all themes so inline additions do not get a misleading red spacer. Added-line shading stays green, and actual deletions retain their red line and text highlights.
 - Removed two legacy palette pairs and their theme definitions, screenshots, and current-pack references.
 - Added Vine: Poimandres and Vine: Poimandres Unbordered, bringing the current pack to 16 themes across eight palettes. These retain Poimandres' navy, mint, and pale-blue character with opaque comments and types, clearer selections, white cursors, and consistent TextMate and semantic syntax roles.
 - Matched the Sublime Text 4 Dark bordered title bar to the dark surrounding surface.

@@ -296,7 +296,7 @@
     "list.errorForeground": "#f48771",
     "list.warningForeground": "#E2C08D",
     "diffEditorGutter.insertedLineBackground": "#86de7426",
-    "diffEditorGutter.removedLineBackground": "#ff9fa326",
+    "diffEditorGutter.removedLineBackground": "#00000000",
     "diffEditorOverview.insertedForeground": "#86de7480",
     "diffEditorOverview.removedForeground": "#ff9fa380",
     "statusBar.inactiveBackground": "#0e0e11",
