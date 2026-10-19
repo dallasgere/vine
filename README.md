@@ -15,7 +15,7 @@ Feel free to improve these and open issues if something is off.
 
 ## Themes
 
-Version 4.0.0 includes eleven palettes, each with bordered and unbordered variants, for 22 themes total.
+Version 4.1.0 includes eleven palettes, each with bordered and unbordered variants, for 22 themes total.
 
 ## Screenshots
 

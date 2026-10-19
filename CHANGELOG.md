@@ -1,5 +1,10 @@
 # Changelog
 
+## 4.1.0 — 2026-10-19
+
+- Removed the active-tab accent borders in both Dark Modern 2026 and Poimandres variants so classic VS Code tabs use background highlighting consistently with the other themes.
+- Gave Dark Modern 2026 active tabs a distinct background using the palette's existing selected-tab color.
+
 ## 4.0.0 — 2026-10-19
 
 - Refreshed all 22 theme screenshots, named them by palette and border style, and ordered the README gallery alphabetically.
