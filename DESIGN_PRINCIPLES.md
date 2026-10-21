@@ -18,7 +18,7 @@ Rosé Pine Neutral and Rosé Pine Moon Neutral pair their respective syntax hues
 
 Use simple backgrounds, subtle highlights, and restrained accents. Tabs should feel connected to the editor, and scrollbars and the minimap should stay in the background.
 
-Matching words use translucent, palette-matched fills without outlines, including read, write, and textual occurrences. Search matches also use background fills without outlines, in the editor, Search Editor, and search sidebar.
+Matching words use translucent, palette-matched fills without outlines, including read, write, and textual occurrences. Search matches use the same fills as cursor-based word highlights without outlines, in the editor, Search Editor, and search sidebar. The current search match uses the stronger word-highlight fill.
 
 The terminal and editor share the same background for a continuous workspace.
 

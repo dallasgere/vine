@@ -1,5 +1,11 @@
 # Changelog
 
+## 4.5.0 — 2026-10-21
+
+- Refined TypeScript and TSX syntax in both Sublime Text 4 variants to better match Mariana: blue type references with orange declarations, teal constructors and decorator punctuation, neutral annotation colons, white section punctuation, pink async modifiers, red new operators, and plain enum members.
+- Replaced green comments in both Dark Modern 2026 variants with a readable neutral gray (`#929292`), including comment punctuation and semantic highlighting.
+- Brightened search matches across all 22 themes to use the same fills as cursor-based word highlights, with the stronger word-highlight fill for the current match. Kept outlines transparent and matched Search Editor highlights to the same strength.
+
 ## 4.4.0 — 2026-10-21
 
 - Slightly lightened both Dark Modern 2026 variants from near-black to deep charcoal (`#17181A`), with coordinated editor, terminal, tabs, inputs, and widgets. Bordered retains a darker outer frame and subtle dividers; Unbordered keeps blended workspace surfaces.

@@ -129,7 +129,8 @@
     "editor.selectionHighlightBackground": "#5fb4b420",
     "editor.wordHighlightBackground": "#5fb4b433",
     "editor.wordHighlightStrongBackground": "#5fb4b440",
-    "editor.findMatchHighlightBackground": "#5fb4b412",
+    "editor.findMatchHighlightBackground": "#5fb4b433",
+    "searchEditor.findMatchBackground": "#5fb4b433",
     "editor.findRangeHighlightBackground": "#5fb4b412",
     "editor.hoverHighlightBackground": "#5fb4b412",
     "editor.selectionHighlightBorder": "#00000000",
@@ -138,7 +139,7 @@
     "editor.findMatchHighlightBorder": "#00000000",
     "editor.findMatchBorder": "#00000000",
     "editorBracketMatch.border": "#5fb4b4",
-    "editor.findMatchBackground": "#304255",
+    "editor.findMatchBackground": "#5fb4b440",
     "editorBracketMatch.background": "#99c79414",
     "editorWhitespace.foreground": "#647382",
     "editorIndentGuide.background1": "#343c46",
@@ -823,6 +824,121 @@
         "foreground": "#c695c6",
         "fontStyle": ""
       }
+    },
+    {
+      "name": "TypeScript type references",
+      "scope": [
+        "entity.name.type.ts",
+        "entity.name.type.tsx"
+      ],
+      "settings": {
+        "foreground": "#6699cc",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "TypeScript type declarations",
+      "scope": [
+        "entity.name.type.class.ts",
+        "entity.name.type.interface.ts",
+        "entity.name.type.enum.ts",
+        "entity.name.type.alias.ts",
+        "entity.name.type.module.ts",
+        "entity.name.type.class.tsx",
+        "entity.name.type.interface.tsx",
+        "entity.name.type.enum.tsx",
+        "entity.name.type.alias.tsx",
+        "entity.name.type.module.tsx"
+      ],
+      "settings": {
+        "foreground": "#f9ae58",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "TypeScript constructors",
+      "scope": [
+        "meta.method.declaration.ts storage.type",
+        "meta.method.declaration.tsx storage.type"
+      ],
+      "settings": {
+        "foreground": "#5fb4b4",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "TypeScript async modifiers",
+      "scope": [
+        "storage.modifier.async.ts",
+        "storage.modifier.async.tsx"
+      ],
+      "settings": {
+        "foreground": "#c695c6",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "TypeScript new operators",
+      "scope": [
+        "keyword.operator.new.ts",
+        "keyword.operator.new.tsx"
+      ],
+      "settings": {
+        "foreground": "#ec5f66",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "TypeScript annotation separators",
+      "scope": [
+        "keyword.operator.type.annotation.ts",
+        "keyword.operator.type.annotation.tsx"
+      ],
+      "settings": {
+        "foreground": "#909cac",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "TypeScript decorator punctuation",
+      "scope": [
+        "punctuation.decorator.ts",
+        "punctuation.decorator.tsx"
+      ],
+      "settings": {
+        "foreground": "#5fb4b4",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "TypeScript section punctuation",
+      "scope": [
+        "punctuation.definition.block.ts",
+        "punctuation.definition.parameters.begin.ts",
+        "punctuation.definition.parameters.end.ts",
+        "meta.brace.round.ts",
+        "meta.brace.square.ts",
+        "punctuation.definition.block.tsx",
+        "punctuation.definition.parameters.begin.tsx",
+        "punctuation.definition.parameters.end.tsx",
+        "meta.brace.round.tsx",
+        "meta.brace.square.tsx"
+      ],
+      "settings": {
+        "foreground": "#ffffff",
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "TypeScript variable declaration keywords",
+      "scope": [
+        "meta.var.expr.ts storage.type.ts",
+        "meta.var.expr.tsx storage.type.tsx"
+      ],
+      "settings": {
+        "foreground": "#c695c6",
+        "fontStyle": ""
+      }
     }
   ],
   "semanticTokenColors": {
@@ -866,6 +982,32 @@
       "italic": false
     },
     "function.definition": "#5fb4b4",
-    "method.definition": "#5fb4b4"
+    "method.definition": "#5fb4b4",
+    "type:typescript": "#6699cc",
+    "type.declaration:typescript": "#f9ae58",
+    "class:typescript": "#6699cc",
+    "class.declaration:typescript": "#f9ae58",
+    "interface:typescript": "#6699cc",
+    "interface.declaration:typescript": "#f9ae58",
+    "struct:typescript": "#6699cc",
+    "struct.declaration:typescript": "#f9ae58",
+    "enum:typescript": "#6699cc",
+    "enum.declaration:typescript": "#f9ae58",
+    "typeParameter:typescript": "#6699cc",
+    "typeParameter.declaration:typescript": "#f9ae58",
+    "enumMember:typescript": "#d8dee9",
+    "type:typescriptreact": "#6699cc",
+    "type.declaration:typescriptreact": "#f9ae58",
+    "class:typescriptreact": "#6699cc",
+    "class.declaration:typescriptreact": "#f9ae58",
+    "interface:typescriptreact": "#6699cc",
+    "interface.declaration:typescriptreact": "#f9ae58",
+    "struct:typescriptreact": "#6699cc",
+    "struct.declaration:typescriptreact": "#f9ae58",
+    "enum:typescriptreact": "#6699cc",
+    "enum.declaration:typescriptreact": "#f9ae58",
+    "typeParameter:typescriptreact": "#6699cc",
+    "typeParameter.declaration:typescriptreact": "#f9ae58",
+    "enumMember:typescriptreact": "#d8dee9"
   }
 }

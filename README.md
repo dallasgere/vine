@@ -15,9 +15,9 @@ Feel free to improve these and open issues if something is off.
 
 ## Themes
 
-Version 4.4.0 includes eleven palettes, each with bordered and unbordered variants, for 22 themes total.
+Version 4.5.0 includes eleven palettes, each with bordered and unbordered variants, for 22 themes total.
 
-This release removes search-match outlines throughout the pack and slightly lightens both Dark Modern 2026 variants, with coordinated workspace surfaces and the same sleek bordered and unbordered styles.
+Search matches use the same palette-matched background tones as cursor-based word highlights throughout the pack, with a stronger fill for the current match and no outlines. Both Sublime Text 4 variants refine TypeScript and TSX syntax colors to more closely match Mariana, including blue type references and teal constructors. Both Dark Modern 2026 variants pair neutral gray comments with coordinated deep charcoal surfaces and sleek bordered and unbordered styles.
 
 ## Screenshots
 

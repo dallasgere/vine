@@ -71,7 +71,7 @@
     "dropdown.border": "#2E3031",
     "dropdown.foreground": "#bfbfbf",
     "dropdown.listBackground": "#1E1F20",
-    "editor.findMatchBackground": "#27678290",
+    "editor.findMatchBackground": "#276782a0",
     "editorGroup.border": "#FFFFFF0e",
     "editorGroupHeader.tabsBackground": "#17181A",
     "editorGutter.addedBackground": "#7abd88",
@@ -207,6 +207,7 @@
     "editor.wordHighlightBackground": "#27678280",
     "editor.wordHighlightStrongBackground": "#276782a0",
     "editor.findMatchHighlightBackground": "#27678280",
+    "searchEditor.findMatchBackground": "#27678280",
     "editor.findRangeHighlightBackground": "#FFFFFF13",
     "editor.hoverHighlightBackground": "#FFFFFF13",
     "editor.lineHighlightBackground": "#28292A",
@@ -404,9 +405,12 @@
       }
     },
     {
-      "scope": "comment",
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
       "settings": {
-        "foreground": "#6A9955"
+        "foreground": "#929292"
       }
     },
     {
@@ -937,6 +941,7 @@
     }
   ],
   "semanticTokenColors": {
+    "comment": "#929292",
     "newOperator": "#C586C0",
     "stringLiteral": "#ce9178",
     "customLiteral": "#DCDCAA",
