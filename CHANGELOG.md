@@ -1,5 +1,10 @@
 # Changelog
 
+## 4.4.0 — 2026-10-21
+
+- Slightly lightened both Dark Modern 2026 variants from near-black to deep charcoal (`#17181A`), with coordinated editor, terminal, tabs, inputs, and widgets. Bordered retains a darker outer frame and subtle dividers; Unbordered keeps blended workspace surfaces.
+- Removed search-match outlines across all 22 themes so editor Find, the search sidebar, and Search Editor use background highlights consistent with matching-word highlights.
+
 ## 4.3.0 — 2026-10-21
 
 - Gave bordered Dark Modern 2026 a darker outer frame, sidebar, and matching status bar so the bottom inset blends into the surrounding workspace. Connected the tab strip to the editor, improved sidebar text and icon contrast, and coordinated neutral selection and active-tab backgrounds in both variants; Unbordered retains blended surfaces.

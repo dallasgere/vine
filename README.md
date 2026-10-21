@@ -15,7 +15,9 @@ Feel free to improve these and open issues if something is off.
 
 ## Themes
 
-Version 4.3.0 includes eleven palettes, each with bordered and unbordered variants, for 22 themes total.
+Version 4.4.0 includes eleven palettes, each with bordered and unbordered variants, for 22 themes total.
+
+This release removes search-match outlines throughout the pack and slightly lightens both Dark Modern 2026 variants, with coordinated workspace surfaces and the same sleek bordered and unbordered styles.
 
 ## Screenshots
 
