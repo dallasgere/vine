@@ -6,6 +6,8 @@ Vine brings favorite dark palettes together with a consistent feel. These are th
 
 Syntax should be clear without being harsh. Comments stay readable but quieter than the code around them. Selections, search highlights, and Git changes should leave the text easy to read.
 
+Use upright text throughout every theme, including comments, types, parameters, and Markdown emphasis. TextMate font styles and semantic token rules must not enable italics. Bold, underline, and strikethrough remain available where appropriate.
+
 Contrast includes the separation between syntax colors and between active and secondary UI elements. Avoid making every role equally bright: use deeper backgrounds, distinct syntax hues, and quieter comments and inactive controls. Keep explicit syntax foregrounds at least 4.5:1 against the editor background, and check selections and the current line separately.
 
 Each palette keeps its own character. The Graphite themes use a deep blue-gray background with a hierarchy of grayscale tones: soft body text, brighter declarations, quieter strings and punctuation, and readable subdued comments. Restrained bold declarations provide structure, while keywords and type references use regular weight, with color reserved for status indicators and terminal output.

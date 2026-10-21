@@ -337,7 +337,7 @@
       ],
       "settings": {
         "foreground": "#9c9c9c",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -503,7 +503,7 @@
       ],
       "settings": {
         "foreground": "#dedede",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -750,7 +750,7 @@
     "comment": {
       "foreground": "#9c9c9c",
       "bold": false,
-      "italic": true,
+      "italic": false,
       "underline": false
     },
     "string": {

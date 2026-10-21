@@ -403,7 +403,7 @@
       ],
       "settings": {
         "foreground": "#eb6f92",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -490,7 +490,7 @@
       ],
       "settings": {
         "foreground": "#c4a7e7",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -594,7 +594,7 @@
       ],
       "settings": {
         "foreground": "#e0def4",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -681,11 +681,11 @@
     "variable.defaultLibrary.readonly": "#f6c177",
     "function.defaultLibrary": {
       "foreground": "#eb6f92",
-      "italic": true
+      "italic": false
     },
     "method.defaultLibrary": {
       "foreground": "#eb6f92",
-      "italic": true
+      "italic": false
     },
     "*.deprecated": {
       "foreground": "#96949f",

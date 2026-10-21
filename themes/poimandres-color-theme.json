@@ -328,7 +328,7 @@
       ],
       "settings": {
         "foreground": "#8992b0",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -339,7 +339,7 @@
       ],
       "settings": {
         "foreground": "#a6accd",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -485,7 +485,7 @@
       ],
       "settings": {
         "foreground": "#91b4d5",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -495,7 +495,7 @@
       ],
       "settings": {
         "foreground": "#5fb3a1",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -565,7 +565,7 @@
       ],
       "settings": {
         "foreground": "#e4f0fb",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -635,13 +635,13 @@
     "enumMember": "#5de4c7",
     "keyword": {
       "foreground": "#a6accd",
-      "italic": true
+      "italic": false
     },
     "modifier": "#5de4c7",
     "operator": "#91b4d5",
     "comment": {
       "foreground": "#8992b0",
-      "italic": true
+      "italic": false
     },
     "string": "#5de4c7",
     "number": "#5de4c7",

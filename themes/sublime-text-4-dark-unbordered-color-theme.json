@@ -376,7 +376,7 @@
       ],
       "settings": {
         "foreground": "#ec5f66",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -459,7 +459,7 @@
       ],
       "settings": {
         "foreground": "#c695c6",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -491,7 +491,7 @@
       ],
       "settings": {
         "foreground": "#5fb4b4",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -511,7 +511,7 @@
       ],
       "settings": {
         "foreground": "#ec5f66",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -587,7 +587,7 @@
       ],
       "settings": {
         "foreground": "#6699cc",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -597,7 +597,7 @@
       ],
       "settings": {
         "foreground": "#c695c6",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -608,7 +608,7 @@
       ],
       "settings": {
         "foreground": "#6699cc",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -696,7 +696,7 @@
         "markup.italic"
       ],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -851,19 +851,19 @@
     "decorator": "#6699cc",
     "type.defaultLibrary": {
       "foreground": "#6699cc",
-      "italic": true
+      "italic": false
     },
     "class.defaultLibrary": {
       "foreground": "#6699cc",
-      "italic": true
+      "italic": false
     },
     "function.defaultLibrary": {
       "foreground": "#6699cc",
-      "italic": true
+      "italic": false
     },
     "method.defaultLibrary": {
       "foreground": "#6699cc",
-      "italic": true
+      "italic": false
     },
     "function.definition": "#5fb4b4",
     "method.definition": "#5fb4b4"

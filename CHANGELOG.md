@@ -1,5 +1,10 @@
 # Changelog
 
+## 4.3.0 — 2026-10-21
+
+- Gave bordered Dark Modern 2026 a darker outer frame, sidebar, and matching status bar so the bottom inset blends into the surrounding workspace. Connected the tab strip to the editor, improved sidebar text and icon contrast, and coordinated neutral selection and active-tab backgrounds in both variants; Unbordered retains blended surfaces.
+- Removed italics from syntax, Markdown emphasis, and semantic highlighting across all 22 themes, preserving other text styles.
+
 ## 4.2.0 — 2026-10-21
 
 - Replaced matching-word outlines with palette-matched background highlights across all 22 themes, covering selections and read, write, and textual occurrences. Single-click symbol highlights use stronger fills to keep matching references easy to spot.
