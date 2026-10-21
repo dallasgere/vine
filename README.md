@@ -15,106 +15,102 @@ Feel free to improve these and open issues if something is off.
 
 ## Themes
 
-Version 4.5.0 includes eleven palettes, each with bordered and unbordered variants, for 22 themes total.
+Version 4.6.0 includes ten palettes, each with bordered and unbordered variants, for 20 themes total.
 
-Search matches use the same palette-matched background tones as cursor-based word highlights throughout the pack, with a stronger fill for the current match and no outlines. Both Sublime Text 4 variants refine TypeScript and TSX syntax colors to more closely match Mariana, including blue type references and teal constructors. Both Dark Modern 2026 variants pair neutral gray comments with coordinated deep charcoal surfaces and sleek bordered and unbordered styles.
+All themes use upright, regular-weight editor text, including declarations and Markdown headings. A subtle, palette-matched sticky-scroll divider separates pinned code from scrolling content without a drop shadow.
+
+Graphite, Rosé Pine Neutral, and Xcode 26 Dark use deeper workspace surfaces with clearer text and control separation. Tokyo Night keeps its blue-violet character with gently softened syntax and accents. Rosé Pine Neutral refines syntax color assignments to better match the original palette, and Dark Modern 2026 blends the tab strip into the editor.
+
+Search matches use the same palette-matched background tones as cursor-based word highlights, with a stronger fill for the current match and no outlines. Editor and terminal backgrounds match, cursors stay white, and Git status colors retain their familiar meanings.
 
 ## Screenshots
 
 ### Chrome DevTools
 
-![Vine: Chrome DevTools theme screenshot](screenshots/chrome-devtools.png)
+![Vine: Chrome DevTools theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/chrome-devtools.png)
 
 ### Chrome DevTools Unbordered
 
-![Vine: Chrome DevTools Unbordered theme screenshot](screenshots/chrome-devtools-unbordered.png)
+![Vine: Chrome DevTools Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/chrome-devtools-unbordered.png)
 
 ### Dark Modern 2026
 
-![Vine: Dark Modern 2026 theme screenshot](screenshots/dark-modern-2026.png)
+![Vine: Dark Modern 2026 theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/dark-modern-2026.png)
 
 ### Dark Modern 2026 Unbordered
 
-![Vine: Dark Modern 2026 Unbordered theme screenshot](screenshots/dark-modern-2026-unbordered.png)
+![Vine: Dark Modern 2026 Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/dark-modern-2026-unbordered.png)
 
 ### Firefox DevTools
 
-![Vine: Firefox DevTools theme screenshot](screenshots/firefox-devtools.png)
+![Vine: Firefox DevTools theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/firefox-devtools.png)
 
 ### Firefox DevTools Unbordered
 
-![Vine: Firefox DevTools Unbordered theme screenshot](screenshots/firefox-devtools-unbordered.png)
+![Vine: Firefox DevTools Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/firefox-devtools-unbordered.png)
 
 ### GitHub Dark Default
 
-![Vine: GitHub Dark Default theme screenshot](screenshots/github-dark-default.png)
+![Vine: GitHub Dark Default theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/github-dark-default.png)
 
 ### GitHub Dark Default Unbordered
 
-![Vine: GitHub Dark Default Unbordered theme screenshot](screenshots/github-dark-default-unbordered.png)
+![Vine: GitHub Dark Default Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/github-dark-default-unbordered.png)
 
 ### Graphite
 
-![Vine: Graphite theme screenshot](screenshots/graphite.png)
+![Vine: Graphite theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/graphite.png)
 
 ### Graphite Unbordered
 
-![Vine: Graphite Unbordered theme screenshot](screenshots/graphite-unbordered.png)
+![Vine: Graphite Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/graphite-unbordered.png)
 
 ### Poimandres
 
-![Vine: Poimandres theme screenshot](screenshots/poimandres.png)
+![Vine: Poimandres theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/poimandres.png)
 
 ### Poimandres Unbordered
 
-![Vine: Poimandres Unbordered theme screenshot](screenshots/poimandres-unbordered.png)
-
-### Rosé Pine Moon Neutral
-
-![Vine: Rosé Pine Moon Neutral theme screenshot](screenshots/rose-pine-moon-neutral.png)
-
-### Rosé Pine Moon Neutral Unbordered
-
-![Vine: Rosé Pine Moon Neutral Unbordered theme screenshot](screenshots/rose-pine-moon-neutral-unbordered.png)
+![Vine: Poimandres Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/poimandres-unbordered.png)
 
 ### Rosé Pine Neutral
 
-![Vine: Rosé Pine Neutral theme screenshot](screenshots/rose-pine-neutral.png)
+![Vine: Rosé Pine Neutral theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/rose-pine-neutral.png)
 
 ### Rosé Pine Neutral Unbordered
 
-![Vine: Rosé Pine Neutral Unbordered theme screenshot](screenshots/rose-pine-neutral-unbordered.png)
+![Vine: Rosé Pine Neutral Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/rose-pine-neutral-unbordered.png)
 
 ### Sublime Text 4 Dark
 
-![Vine: Sublime Text 4 Dark theme screenshot](screenshots/sublime-text-4-dark.png)
+![Vine: Sublime Text 4 Dark theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/sublime-text-4-dark.png)
 
 ### Sublime Text 4 Dark Unbordered
 
-![Vine: Sublime Text 4 Dark Unbordered theme screenshot](screenshots/sublime-text-4-dark-unbordered.png)
+![Vine: Sublime Text 4 Dark Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/sublime-text-4-dark-unbordered.png)
 
 ### Tokyo Night
 
-![Vine: Tokyo Night theme screenshot](screenshots/tokyo-night.png)
+![Vine: Tokyo Night theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/tokyo-night.png)
 
 ### Tokyo Night Unbordered
 
-![Vine: Tokyo Night Unbordered theme screenshot](screenshots/tokyo-night-unbordered.png)
+![Vine: Tokyo Night Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/tokyo-night-unbordered.png)
 
 ### Xcode 26 Dark
 
-![Vine: Xcode 26 Dark theme screenshot](screenshots/xcode-26-dark.png)
+![Vine: Xcode 26 Dark theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/xcode-26-dark.png)
 
 ### Xcode 26 Dark Unbordered
 
-![Vine: Xcode 26 Dark Unbordered theme screenshot](screenshots/xcode-26-dark-unbordered.png)
+![Vine: Xcode 26 Dark Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/xcode-26-dark-unbordered.png)
 
 # Thanks
 
 Thanks to these projects and their authors for the themes and palettes that inspired Vine:
 
 - [Apple Xcode](https://developer.apple.com/xcode/)
-- [Rosé Pine / Moon](https://github.com/rose-pine/vscode)
+- [Rosé Pine](https://github.com/rose-pine/vscode)
 - [Poimandres](https://github.com/drcmda/poimandres-theme)
 - [Visual Studio Code](https://github.com/microsoft/vscode)
 - [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme)

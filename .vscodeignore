@@ -7,3 +7,7 @@ dist/**
 **/*.vsix
 scripts/**
 node_modules/**
+screenshots/**
+assets/**
+!assets/vine.png
+DESIGN_PRINCIPLES.md

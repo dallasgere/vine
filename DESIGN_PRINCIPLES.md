@@ -6,19 +6,21 @@ Vine brings favorite dark palettes together with a consistent feel. These are th
 
 Syntax should be clear without being harsh. Comments stay readable but quieter than the code around them. Selections, search highlights, and Git changes should leave the text easy to read.
 
-Use upright text throughout every theme, including comments, types, parameters, and Markdown emphasis. TextMate font styles and semantic token rules must not enable italics. Bold, underline, and strikethrough remain available where appropriate.
+Use upright, regular-weight text throughout every theme, including comments, declarations, types, parameters, Markdown headings, and Markdown emphasis. TextMate font styles and semantic token rules must not enable bold or italics. Underline and strikethrough remain available where appropriate.
 
 Contrast includes the separation between syntax colors and between active and secondary UI elements. Avoid making every role equally bright: use deeper backgrounds, distinct syntax hues, and quieter comments and inactive controls. Keep explicit syntax foregrounds at least 4.5:1 against the editor background, and check selections and the current line separately.
 
-Each palette keeps its own character. The Graphite themes use a deep blue-gray background with a hierarchy of grayscale tones: soft body text, brighter declarations, quieter strings and punctuation, and readable subdued comments. Restrained bold declarations provide structure, while keywords and type references use regular weight, with color reserved for status indicators and terminal output.
+Each palette keeps its own character. The Graphite themes use a deep blue-gray background with a hierarchy of grayscale tones: soft body text, brighter declarations, quieter strings and punctuation, and readable subdued comments. Brighter declaration names provide structure at the same regular weight as the rest of the text, with color reserved for status indicators and terminal output.
 
-Rosé Pine Neutral and Rosé Pine Moon Neutral pair their respective syntax hues with the same neutral gray workspace surfaces. Their darker pine and comment colors are lifted for readability.
+Rosé Pine Neutral pairs rose and pine syntax hues with deep neutral charcoal workspace surfaces. Its darker pine and comment colors are lifted for readability. Xcode 26 Dark uses deeper cool charcoal surfaces to give its softer syntax colors clear contrast.
 
 ## Keep the editor calm
 
 Use simple backgrounds, subtle highlights, and restrained accents. Tabs should feel connected to the editor, and scrollbars and the minimap should stay in the background.
 
 Matching words use translucent, palette-matched fills without outlines, including read, write, and textual occurrences. Search matches use the same fills as cursor-based word highlights without outlines, in the editor, Search Editor, and search sidebar. The current search match uses the stronger word-highlight fill.
+
+Sticky scroll uses a subtle, palette-matched divider without a drop shadow in both variants, keeping pinned code rows distinct from scrolling content.
 
 The terminal and editor share the same background for a continuous workspace.
 

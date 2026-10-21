@@ -4,6 +4,8 @@
   "type": "dark",
   "semanticHighlighting": true,
   "colors": {
+    "editorStickyScroll.shadow": "#00000000",
+    "editorStickyScroll.border": "#303034",
     "foreground": "#b5b5b9",
     "editor.foreground": "#d7d7db",
     "icon.foreground": "#a7a7ab",
@@ -473,7 +475,7 @@
       ],
       "settings": {
         "foreground": "#75bfff",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -483,7 +485,7 @@
       ],
       "settings": {
         "foreground": "#d7d7db",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {

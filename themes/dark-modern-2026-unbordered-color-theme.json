@@ -4,11 +4,12 @@
   "type": "dark",
   "semanticHighlighting": true,
   "colors": {
+    "editorStickyScroll.shadow": "#00000000",
     "checkbox.border": "#525252",
     "editor.background": "#17181A",
     "editor.foreground": "#CCCCCC",
     "editorGroupHeader.connectedTabsBackground": "#17181A",
-    "editorGroupHeader.tabsBorder": "#17181A",
+    "editorGroupHeader.tabsBorder": "#00000000",
     "editor.inactiveSelectionBackground": "#27678260",
     "editorIndentGuide.background1": "#333333",
     "editorIndentGuide.activeBackground1": "#4A4A4A",
@@ -201,7 +202,7 @@
     "commandCenter.border": "#2E3031",
     "editorStickyScroll.background": "#17181A",
     "editorStickyScrollHover.background": "#242527",
-    "editorStickyScroll.border": "#2F3032",
+    "editorStickyScroll.border": "#252628",
     "editorCursor.foreground": "#FFFFFF",
     "editor.selectionBackground": "#276782dd",
     "editor.wordHighlightBackground": "#27678280",
@@ -395,7 +396,7 @@
     {
       "scope": "strong",
       "settings": {
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -488,14 +489,14 @@
     {
       "scope": "markup.bold",
       "settings": {
-        "fontStyle": "bold",
+        "fontStyle": "",
         "foreground": "#569cd6"
       }
     },
     {
       "scope": "markup.heading",
       "settings": {
-        "fontStyle": "bold",
+        "fontStyle": "",
         "foreground": "#569cd6"
       }
     },

@@ -1,5 +1,17 @@
 # Changelog
 
+## 4.6.0 — 2026-10-21
+
+- Removed bold text styling across all 20 themes, including declarations, keywords, Markdown headings, and Markdown bold spans. TextMate and semantic highlighting use regular weight throughout, retaining underline and strikethrough cues.
+- Removed both Rosé Pine Moon Neutral variants and their gallery screenshots, keeping regular Rosé Pine Neutral in both border styles. The pack now includes 20 themes across ten palettes.
+- Deepened both Graphite variants to blue-gray charcoal (`#22262d`) with coordinated workspace surfaces and clearer grayscale text levels. Slightly brightened body text, keywords, strings, and declaration names while keeping comments and punctuation quieter.
+- Deepened the editor, terminal, frame, and supporting surfaces in both Rosé Pine Neutral and Xcode 26 Dark variants for a richer, less flat appearance while preserving their syntax palettes.
+- Refined Rosé Pine Neutral syntax roles against the original theme: neutral readonly variables, enum uses, and parameter references; rose method calls; and iris interface references with foam declaration names. Kept existing shades and workspace colors.
+- Gently softened both Tokyo Night variants with slightly lighter blue-violet workspace surfaces and subtly moderated syntax and accents, retaining most of the original palette’s saturation and lavender body text. Removed the blanket orange treatment of readonly variables.
+- Added a subtle, palette-matched sticky-scroll divider across all 20 themes to distinguish pinned code rows from scrolling content, with transparent sticky-scroll shadows in both border styles. Removed Poimandres’ editor scroll shadow beneath the breadcrumbs.
+- Removed the divider below the tab strip in both Dark Modern 2026 variants so tabs blend into the editor.
+- Reduced VSIX size by excluding gallery screenshots and internal design documentation. README screenshots load from GitHub; the extension icon remains bundled.
+
 ## 4.5.0 — 2026-10-21
 
 - Refined TypeScript and TSX syntax in both Sublime Text 4 variants to better match Mariana: blue type references with orange declarations, teal constructors and decorator punctuation, neutral annotation colons, white section punctuation, pink async modifiers, red new operators, and plain enum members.
