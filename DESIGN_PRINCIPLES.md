@@ -16,14 +16,16 @@ Rosé Pine Neutral and Rosé Pine Moon Neutral pair their respective syntax hues
 
 Use simple backgrounds, subtle highlights, and restrained accents. Tabs should feel connected to the editor, and scrollbars and the minimap should stay in the background.
 
+Matching words use translucent, palette-matched fills without outlines, including read, write, and textual occurrences.
+
 The terminal and editor share the same background for a continuous workspace.
 
 Editor and terminal cursors use bright white (`#FFFFFF`) in every palette so they remain easy to locate among syntax colors.
 
 ## Offer two ways to frame the workspace
 
-- **Bordered:** subtle dividers separate the editor, sidebar, and panels.
-- **Unbordered:** the main backgrounds and dividers blend together.
+- **Bordered:** very subtle dividers separate the editor, sidebar, and panels, including modern UI frames.
+- **Unbordered:** the main backgrounds blend together, with transparent workspace dividers and modern UI frames.
 
 Both variants share the same syntax colors, editor background, and text styling. Hover states, active controls, and keyboard focus should remain easy to spot.
 

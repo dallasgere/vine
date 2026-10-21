@@ -1,5 +1,10 @@
 # Changelog
 
+## 4.2.0 — 2026-10-21
+
+- Replaced matching-word outlines with palette-matched background highlights across all 22 themes, covering selections and read, write, and textual occurrences. Single-click symbol highlights use stronger fills to keep matching references easy to spot.
+- Softened workspace dividers and modern UI editor, panel, and activity bar frames in Bordered variants. Made those borders transparent in Unbordered variants for a seamless appearance in both classic and modern UI.
+
 ## 4.1.0 — 2026-10-19
 
 - Removed the active-tab accent borders in both Dark Modern 2026 and Poimandres variants so classic VS Code tabs use background highlighting consistently with the other themes.
