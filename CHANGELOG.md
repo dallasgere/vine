@@ -1,5 +1,12 @@
 # Changelog
 
+## 4.10.0 — 2026-10-23
+
+- Fixed the VS Code theme validation warnings across all 22 themes: gave `editor.inactiveSelectionBackground` a slight transparency so it no longer obscures content, removed the unsupported `tab.unfocusedInactiveBorderTop` key, and dropped token background colors from the Sublime Text 4 Dark invalid-token rules, which VS Code does not support.
+- Lifted both Vesper variants out of pure near-black to ease eye strain, matching the lightness of the rest of the pack. The editor and terminal move from `#101010` to `#181818`, and the bordered shell from `#070707` to `#0F0F0F`, with every tab, list, widget, input, and border layer raised by the same step so the hierarchy is unchanged. Syntax colors keep at least 4.5:1 contrast.
+- Darkened Vesper comments from `#A3A3A3` to `#8B8B8B` so they read clearly quieter than the gray keywords and operators (`#B6B6B6`), while staying above 4.5:1 against the editor.
+- Set the minimap and editor overview ruler backgrounds explicitly to each theme’s editor background across all 22 themes, so the strip around the minimap matches the editor and the minimap text no longer looks like it floats on a different shade. The minimap slider is transparent at rest, with hover and drag highlights retained.
+
 ## 4.9.0 — 2026-10-22
 
 - Softened Vesper’s surrounding UI in both variants with darker active tabs, list selections, hover fills, and resize grips. Bordered Vesper also uses a deeper outer shell and quieter workspace frames; Unbordered keeps its blended backgrounds and transparent dividers.

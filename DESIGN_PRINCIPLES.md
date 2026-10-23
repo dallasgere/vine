@@ -12,7 +12,7 @@ Contrast includes the separation between syntax colors and between active and se
 
 Each palette keeps its own character. The Graphite themes use a deep blue-gray background with a hierarchy of grayscale tones: soft body text, brighter declarations, quieter strings and punctuation, and readable subdued comments. Brighter declaration names provide structure at the same regular weight as the rest of the text, with color reserved for status indicators and terminal output.
 
-Rosé Pine Neutral pairs rose and pine syntax hues with deep neutral charcoal workspace surfaces. Its darker pine and comment colors are lifted for readability. Xcode 26 Dark uses deeper cool charcoal surfaces to give its softer syntax colors clear contrast. Vesper keeps its near-black workspace with white code, gray keywords, orange declarations, and peppermint strings. Slightly lighter widgets, tabs, and selections layer above the black, and quieter gray workspace text keeps the code brightest. Its surrounding UI uses subdued tab and list fills, hover states, and resize grips, with a deeper outer shell and subtle frames in the bordered variant. Its translucent comments are lifted to an opaque gray so they stay quieter than the code and remain readable.
+Rosé Pine Neutral pairs rose and pine syntax hues with deep neutral charcoal workspace surfaces. Its darker pine and comment colors are lifted for readability. Xcode 26 Dark uses deeper cool charcoal surfaces to give its softer syntax colors clear contrast. Vesper keeps its deep, neutral near-black workspace (lifted slightly off pure black to reduce eye strain) with white code, gray keywords, orange declarations, and peppermint strings. Slightly lighter widgets, tabs, and selections layer above the black, and quieter gray workspace text keeps the code brightest. Its surrounding UI uses subdued tab and list fills, hover states, and resize grips, with a deeper outer shell and subtle frames in the bordered variant. Its translucent comments are lifted to an opaque gray so they stay quieter than the code and remain readable.
 
 ## Keep the editor calm
 
@@ -22,7 +22,7 @@ Matching words use translucent, palette-matched fills without outlines, includin
 
 Sticky scroll uses a subtle, palette-matched divider without a drop shadow in both variants, keeping pinned code rows distinct from scrolling content.
 
-The terminal and editor share the same background for a continuous workspace.
+The terminal, minimap, and editor overview ruler share the editor background for a continuous workspace. The minimap viewport slider stays transparent at rest, with visible hover and drag highlights.
 
 Editor and terminal cursors use bright white (`#FFFFFF`) in every palette so they remain easy to locate among syntax colors.
 

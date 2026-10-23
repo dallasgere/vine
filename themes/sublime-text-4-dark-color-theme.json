@@ -46,6 +46,8 @@
     "activityBar.inactiveForeground": "#778290",
     "debugConsole.sourceForeground": "#909cac",
     "editor.background": "#202832",
+    "minimap.background": "#202832",
+    "editorOverviewRuler.background": "#202832",
     "editorGutter.background": "#202832",
     "terminal.background": "#202832",
     "sideBar.background": "#191f27",
@@ -123,7 +125,7 @@
     "editorSuggestWidget.selectedBackground": "#304255",
     "quickInputList.focusBackground": "#304255",
     "terminal.selectionBackground": "#304255",
-    "editor.inactiveSelectionBackground": "#304255",
+    "editor.inactiveSelectionBackground": "#304255e6",
     "editor.lineHighlightBackground": "#30425580",
     "list.hoverBackground": "#3e4752",
     "toolbar.hoverBackground": "#ffffff1f",
@@ -149,7 +151,7 @@
     "editorIndentGuide.activeBackground1": "#4a5664",
     "editorRuler.foreground": "#8693a2",
     "scrollbarSlider.background": "#8693a230",
-    "minimapSlider.background": "#8693a230",
+    "minimapSlider.background": "#00000000",
     "scrollbarSlider.hoverBackground": "#8693a245",
     "minimapSlider.hoverBackground": "#8693a245",
     "scrollbarSlider.activeBackground": "#8693a260",
@@ -286,7 +288,6 @@
     "tab.selectedBorderTop": "#00000000",
     "tab.unfocusedActiveBorder": "#00000000",
     "tab.unfocusedActiveBorderTop": "#00000000",
-    "tab.unfocusedInactiveBorderTop": "#00000000",
     "editorGroupHeader.border": "#00000000",
     "scrollbar.shadow": "#00000000",
     "gitDecoration.renamedResourceForeground": "#73C991",
@@ -759,8 +760,7 @@
       ],
       "settings": {
         "foreground": "#f7f7f7",
-        "fontStyle": "",
-        "background": "#ec5f66"
+        "fontStyle": ""
       }
     },
     {
@@ -770,8 +770,7 @@
       ],
       "settings": {
         "foreground": "#f7f7f7",
-        "fontStyle": "",
-        "background": "#ee932b"
+        "fontStyle": ""
       }
     },
     {
