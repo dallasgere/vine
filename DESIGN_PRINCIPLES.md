@@ -12,7 +12,7 @@ Contrast includes the separation between syntax colors and between active and se
 
 Each palette keeps its own character. The Graphite themes use a deep blue-gray background with a hierarchy of grayscale tones: soft body text, brighter declarations, quieter strings and punctuation, and readable subdued comments. Brighter declaration names provide structure at the same regular weight as the rest of the text, with color reserved for status indicators and terminal output.
 
-Rosé Pine Neutral pairs rose and pine syntax hues with deep neutral charcoal workspace surfaces. Its darker pine and comment colors are lifted for readability. Xcode 26 Dark uses deeper cool charcoal surfaces to give its softer syntax colors clear contrast.
+Rosé Pine Neutral pairs rose and pine syntax hues with deep neutral charcoal workspace surfaces. Its darker pine and comment colors are lifted for readability. Xcode 26 Dark uses deeper cool charcoal surfaces to give its softer syntax colors clear contrast. Vesper keeps a near-black workspace with white code, gray keywords, orange declarations, and peppermint strings. Its translucent comments are lifted to an opaque gray so they stay quieter than the code and remain readable.
 
 ## Keep the editor calm
 

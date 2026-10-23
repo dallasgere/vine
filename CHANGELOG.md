@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.7.0 — 2026-10-22
+
+- Added Vesper and Vesper Unbordered, inspired by [Vesper](https://github.com/raunofreiberg/vesper): a near-black workspace with white code, gray keywords, orange declarations, and peppermint strings. Comments are an opaque gray, editor and terminal backgrounds match, cursors are white, and Git status colors keep their familiar meanings. The pack includes 22 themes across eleven palettes.
+
 ## 4.6.0 — 2026-10-21
 
 - Removed bold text styling across all 20 themes, including declarations, keywords, Markdown headings, and Markdown bold spans. TextMate and semantic highlighting use regular weight throughout, retaining underline and strikethrough cues.

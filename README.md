@@ -15,13 +15,15 @@ Feel free to improve these and open issues if something is off.
 
 ## Themes
 
-Version 4.6.0 includes ten palettes, each with bordered and unbordered variants, for 20 themes total.
+Version 4.7.0 includes eleven palettes, each with bordered and unbordered variants, for 22 themes total.
 
 All themes use upright, regular-weight editor text, including declarations and Markdown headings. A subtle, palette-matched sticky-scroll divider separates pinned code from scrolling content without a drop shadow.
 
 Graphite, Rosé Pine Neutral, and Xcode 26 Dark use deeper workspace surfaces with clearer text and control separation. Tokyo Night keeps its blue-violet character with gently softened syntax and accents. Rosé Pine Neutral refines syntax color assignments to better match the original palette, and Dark Modern 2026 blends the tab strip into the editor.
 
 Search matches use the same palette-matched background tones as cursor-based word highlights, with a stronger fill for the current match and no outlines. Editor and terminal backgrounds match, cursors stay white, and Git status colors retain their familiar meanings.
+
+Vesper keeps the original near-black surface, white code, gray keywords, orange declarations, and peppermint strings. Comments are lifted to an opaque gray so they stay readable without competing with the code.
 
 ## Screenshots
 
@@ -97,6 +99,14 @@ Search matches use the same palette-matched background tones as cursor-based wor
 
 ![Vine: Tokyo Night Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/tokyo-night-unbordered.png)
 
+### Vesper
+
+Near-black editor with white code, orange declarations, and peppermint strings. Bordered workspace.
+
+### Vesper Unbordered
+
+The same palette with the sidebar, panel, and editor surfaces blended together.
+
 ### Xcode 26 Dark
 
 ![Vine: Xcode 26 Dark theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/xcode-26-dark.png)
@@ -118,3 +128,4 @@ Thanks to these projects and their authors for the themes and palettes that insp
 - [Sublime Text / Mariana](https://www.sublimetext.com/blog/articles/sublime-text-4)
 - [Firefox DevTools](https://firefox-source-docs.mozilla.org/devtools-user/)
 - [GitHub / Primer](https://github.com/primer/github-vscode-theme)
+- [Vesper](https://github.com/raunofreiberg/vesper)
