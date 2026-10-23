@@ -297,7 +297,7 @@
     "minimapGutter.addedBackground": "#7ec28f",
     "minimapGutter.modifiedBackground": "#79c0ff",
     "minimapGutter.deletedBackground": "#f28b82",
-    "diffEditorGutter.insertedLineBackground": "#7ec28f26",
+    "diffEditorGutter.insertedLineBackground": "#00000000",
     "diffEditorGutter.removedLineBackground": "#00000000",
     "diffEditorOverview.insertedForeground": "#7ec28f80",
     "diffEditorOverview.removedForeground": "#f28b8280",
