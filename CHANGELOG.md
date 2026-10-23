@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.8.0 — 2026-10-22
+
+- Refined both Vesper variants to match the rest of the pack while keeping the near-black workspace. Widgets, tabs, line highlights, and selections layer just above the black, with clearer widget and input borders and translucent scrollbars. Workspace text is quieter than the code, and added lines in the gutter, diffs, and minimap use the shared green.
+
 ## 4.7.0 — 2026-10-22
 
 - Added Vesper and Vesper Unbordered, inspired by [Vesper](https://github.com/raunofreiberg/vesper): a near-black workspace with white code, gray keywords, orange declarations, and peppermint strings. Comments are an opaque gray, editor and terminal backgrounds match, cursors are white, and Git status colors keep their familiar meanings. The pack includes 22 themes across eleven palettes.

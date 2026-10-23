@@ -15,7 +15,7 @@ Feel free to improve these and open issues if something is off.
 
 ## Themes
 
-Version 4.7.0 includes eleven palettes, each with bordered and unbordered variants, for 22 themes total.
+Version 4.8.0 includes eleven palettes, each with bordered and unbordered variants, for 22 themes total.
 
 All themes use upright, regular-weight editor text, including declarations and Markdown headings. A subtle, palette-matched sticky-scroll divider separates pinned code from scrolling content without a drop shadow.
 
@@ -23,7 +23,7 @@ Graphite, Rosé Pine Neutral, and Xcode 26 Dark use deeper workspace surfaces wi
 
 Search matches use the same palette-matched background tones as cursor-based word highlights, with a stronger fill for the current match and no outlines. Editor and terminal backgrounds match, cursors stay white, and Git status colors retain their familiar meanings.
 
-Vesper keeps the original near-black surface, white code, gray keywords, orange declarations, and peppermint strings. Comments are lifted to an opaque gray so they stay readable without competing with the code.
+Vesper keeps its near-black surface with white code, gray keywords, orange declarations, and peppermint strings. Comments are lifted to an opaque gray so they stay readable without competing with the code.
 
 ## Screenshots
 
