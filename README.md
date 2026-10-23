@@ -15,7 +15,7 @@ Feel free to improve these and open issues if something is off.
 
 ## Themes
 
-Version 4.8.0 includes eleven palettes, each with bordered and unbordered variants, for 22 themes total.
+Version 4.9.0 includes eleven palettes, each with bordered and unbordered variants, for 22 themes total.
 
 All themes use upright, regular-weight editor text, including declarations and Markdown headings. A subtle, palette-matched sticky-scroll divider separates pinned code from scrolling content without a drop shadow.
 
@@ -23,7 +23,7 @@ Graphite, Rosé Pine Neutral, and Xcode 26 Dark use deeper workspace surfaces wi
 
 Search matches use the same palette-matched background tones as cursor-based word highlights, with a stronger fill for the current match and no outlines. Editor and terminal backgrounds match, cursors stay white, and Git status colors retain their familiar meanings.
 
-Vesper keeps its near-black surface with white code, gray keywords, orange declarations, and peppermint strings. Comments are lifted to an opaque gray so they stay readable without competing with the code.
+Vesper keeps its near-black surface with white code, gray keywords, orange declarations, and peppermint strings. Comments are lifted to an opaque gray so they stay readable without competing with the code. Both variants use subdued active tabs, list selections, hover fills, and resize grips. The bordered variant pairs a deeper outer shell with subtle workspace frames; the unbordered variant blends its surfaces with transparent dividers.
 
 ## Screenshots
 
@@ -101,7 +101,7 @@ Vesper keeps its near-black surface with white code, gray keywords, orange decla
 
 ### Vesper
 
-Near-black editor with white code, orange declarations, and peppermint strings. Bordered workspace.
+Near-black editor with white code, orange declarations, and peppermint strings. Deeper outer shell with subtle workspace borders.
 
 ### Vesper Unbordered
 

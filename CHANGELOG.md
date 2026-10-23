@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.9.0 — 2026-10-22
+
+- Softened Vesper’s surrounding UI in both variants with darker active tabs, list selections, hover fills, and resize grips. Bordered Vesper also uses a deeper outer shell and quieter workspace frames; Unbordered keeps its blended backgrounds and transparent dividers.
+
 ## 4.8.0 — 2026-10-22
 
 - Refined both Vesper variants to match the rest of the pack while keeping the near-black workspace. Widgets, tabs, line highlights, and selections layer just above the black, with clearer widget and input borders and translucent scrollbars. Workspace text is quieter than the code, and added lines in the gutter, diffs, and minimap use the shared green.
