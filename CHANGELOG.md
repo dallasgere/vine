@@ -1,5 +1,9 @@
 # Changelog
 
+## 5.3.0 — 2026-10-23
+
+- Made the diff editor gutter backgrounds transparent across all 42 themes so added and removed lines both start at the code instead of tinting the line-number gutter.
+
 ## 5.2.0 — 2026-10-23
 
 - Removed the divider line and shadow between the minimap and the scrollbar across all 42 themes by making `editorOverviewRuler.border` and `scrollbar.shadow` transparent.
