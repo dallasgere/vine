@@ -82,7 +82,7 @@
     "editorGutter.modifiedBackground": "#79b0d3",
     "editorLineNumber.activeForeground": "#BBBEBF",
     "editorLineNumber.foreground": "#858889",
-    "editorOverviewRuler.border": "#2e2f31",
+    "editorOverviewRuler.border": "#00000000",
     "editorWidget.background": "#242527",
     "errorForeground": "#f48771",
     "focusBorder": "#3994BCB3",

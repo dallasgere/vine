@@ -1,5 +1,9 @@
 # Changelog
 
+## 5.2.0 — 2026-10-23
+
+- Removed the divider line and shadow between the minimap and the scrollbar across all 42 themes by making `editorOverviewRuler.border` and `scrollbar.shadow` transparent.
+
 ## 5.1.0 — 2026-10-23
 
 - Softened Night Owl booleans and `null` from hot pink-red (`#FF5874`) to a calmer salmon (`#FF8A8E`) so they no longer dominate JS and TS code, at 7.1:1 contrast.

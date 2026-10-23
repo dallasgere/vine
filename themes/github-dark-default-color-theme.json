@@ -198,7 +198,7 @@
     "editorInlayHint.typeBackground": "#161b22",
     "editorInlayHint.parameterBackground": "#161b22",
     "editorUnnecessaryCode.opacity": "#000000ff",
-    "editorOverviewRuler.border": "#12161c",
+    "editorOverviewRuler.border": "#00000000",
     "diffEditor.insertedTextBackground": "#7ec28f20",
     "diffEditor.removedTextBackground": "#f28b8220",
     "diffEditor.insertedLineBackground": "#7ec28f14",
