@@ -1,5 +1,10 @@
 # Changelog
 
+## 5.1.0 — 2026-10-23
+
+- Softened Night Owl booleans and `null` from hot pink-red (`#FF5874`) to a calmer salmon (`#FF8A8E`) so they no longer dominate JS and TS code, at 7.1:1 contrast.
+- Raised Night Owl contrast across Bordered, Unbordered, and Uniform: text moves from `#D6DEEB` to `#E2E9F4` (13.2:1) and the editor from `#1C2332` to `#1A2130`, with the darker bordered shell moving from `#161C28` to `#141925` to keep the layering.
+
 ## 5.0.0 — 2026-10-23
 
 - Added Atom One Dark, JetBrains New UI, and Night Owl, each with Bordered, Unbordered, and Uniform variants. Vine now includes fourteen palettes and 42 themes.

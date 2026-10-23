@@ -13,7 +13,7 @@ So yea I basically wanted to create themes that all followed a similar design pa
 
 Feel free to improve these and open issues if something is off.
 
-Version 5.0.0 includes fourteen palettes, each with bordered, unbordered, and uniform variants, for 42 themes total.
+Version 5.1.0 includes fourteen palettes, each with bordered, unbordered, and uniform variants, for 42 themes total.
 
 ## Variants
 
