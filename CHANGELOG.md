@@ -1,5 +1,16 @@
 # Changelog
 
+## 5.0.0 — 2026-10-23
+
+- Added Atom One Dark, JetBrains New UI, and Night Owl, each with Bordered, Unbordered, and Uniform variants. Vine now includes fourteen palettes and 42 themes.
+- Added a Uniform variant of every existing palette, combining a single workspace surface color with subtle dividers.
+- Refined Atom One Dark syntax with neutral plain code and operators, cyan built-ins, green inherited classes, and separate variable and method rules. Comments and reds are lifted for readability.
+- Adapted Night Owl with a muted slate-blue editor (`#1C2332`), coordinated workspace surfaces, readable comments (`#9AA9AC`), and soft mint-green syntax (`#9FD4B0`). Restored language-specific syntax distinctions and matched the original’s TextMate-driven highlighting approach while retaining upright, regular-weight text.
+- Lifted comments in the three new palettes and darkened accent buttons and badges for readable text.
+- Added a subtle divider under the tab row in Bordered and Uniform variants, with a softer divider in Uniform. Unbordered remains seamless.
+- Removed the full-item activity bar highlight from all three Dark Modern 2026 variants so the active icon uses the accent bar.
+- Refreshed the README gallery with one new screenshot per palette, aligned screenshot filenames with theme names, and documented all three variants together.
+
 ## 4.10.0 — 2026-10-23
 
 - Fixed the VS Code theme validation warnings across all 22 themes: gave `editor.inactiveSelectionBackground` a slight transparency so it no longer obscures content, removed the unsupported `tab.unfocusedInactiveBorderTop` key, and dropped token background colors from the Sublime Text 4 Dark invalid-token rules, which VS Code does not support.

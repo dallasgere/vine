@@ -16,6 +16,8 @@ Rosé Pine Neutral pairs rose and pine syntax hues with deep neutral charcoal wo
 
 ## Keep the editor calm
 
+Night Owl uses muted slate-blue surfaces (`#1C2332` in the editor), retaining a distinct blue character with less teal than the original navy. Widgets, selections, and workspace frames share this restrained blue tint and retain the lighter palette’s brightness. Its yellow-green syntax is softened to a clearer mint-green (`#9FD4B0`) to complement the slate-blue workspace. Its comments remain readable on the editor, current line, and selection. Syntax follows the original’s TextMate rules by default, preserving language-specific distinctions without broad semantic overrides; text remains upright and regular-weight.
+
 Use simple backgrounds, subtle highlights, and restrained accents. Tabs should feel connected to the editor, and scrollbars and the minimap should stay in the background.
 
 Matching words use translucent, palette-matched fills without outlines, including read, write, and textual occurrences. Search matches use the same fills as cursor-based word highlights without outlines, in the editor, Search Editor, and search sidebar. The current search match uses the stronger word-highlight fill.
@@ -26,12 +28,13 @@ The terminal, minimap, and editor overview ruler share the editor background for
 
 Editor and terminal cursors use bright white (`#FFFFFF`) in every palette so they remain easy to locate among syntax colors.
 
-## Offer two ways to frame the workspace
+## Offer three ways to frame the workspace
 
 - **Bordered:** very subtle dividers separate the editor, sidebar, and panels, including modern UI frames.
 - **Unbordered:** the main backgrounds blend together, with transparent workspace dividers and modern UI frames.
+- **Uniform:** the unbordered single-color surfaces, with the bordered variant's subtle dividers and modern UI frames kept visible.
 
-Both variants share the same syntax colors, editor background, and text styling. Hover states, active controls, and keyboard focus should remain easy to spot.
+All variants share the same syntax colors, editor background, and text styling. Hover states, active controls, and keyboard focus should remain easy to spot.
 
 ## Keep status colors familiar
 

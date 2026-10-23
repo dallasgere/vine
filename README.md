@@ -3,7 +3,7 @@
 I have tried multiple themes, and eventually end up finding little things about them I don't like and want to change, such as
 
 - The source control colors being adapted to the theme instead of sticking to the yellow for changed files, green for new files, and red for deleted.
-- I really like the unbordered look of themes, so I added an unbordered version to every theme here
+- I really like the unbordered look of themes, so I added an unbordered version to every theme here, plus a uniform version that keeps the dividers but uses one surface color throughout
 - Sometimes a themes colors are really nice, but the contrast is a little off and after a while it tires out my eyes
 - I like the terminal and the code editor being the same color which is sometimes different in certain themes.
 - Sometimes the cursor color in themes blends in too well for me to see it.
@@ -13,97 +13,85 @@ So yea I basically wanted to create themes that all followed a similar design pa
 
 Feel free to improve these and open issues if something is off.
 
-Version 4.10.0 includes eleven palettes, each with bordered and unbordered variants, for 22 themes total.
+Version 5.0.0 includes fourteen palettes, each with bordered, unbordered, and uniform variants, for 42 themes total.
+
+## Variants
+
+Every palette is available in three variants:
+
+- **Bordered:** subtle dividers separate the editor, sidebar, and panels.
+- **Unbordered:** workspace surfaces blend together without dividers.
+- **Uniform:** one workspace surface color with subtle dividers.
+
+All three share the same syntax colors, editor background, and text styling.
 
 ## Screenshots
+
+Each screenshot shows the standard Bordered variant. Unbordered and Uniform versions are available for every palette.
+
+### Atom One Dark
+
+Adapted from Atom’s original palette, with neutral operators, cyan built-ins, red variables, and readable comments.
+
+![Vine: Atom One Dark theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/atom-one-dark.png)
 
 ### Chrome DevTools
 
 ![Vine: Chrome DevTools theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/chrome-devtools.png)
 
-### Chrome DevTools Unbordered
-
-![Vine: Chrome DevTools Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/chrome-devtools-unbordered.png)
-
 ### Dark Modern 2026
 
 ![Vine: Dark Modern 2026 theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/dark-modern-2026.png)
-
-### Dark Modern 2026 Unbordered
-
-![Vine: Dark Modern 2026 Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/dark-modern-2026-unbordered.png)
 
 ### Firefox DevTools
 
 ![Vine: Firefox DevTools theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/firefox-devtools.png)
 
-### Firefox DevTools Unbordered
-
-![Vine: Firefox DevTools Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/firefox-devtools-unbordered.png)
-
 ### GitHub Dark Default
 
 ![Vine: GitHub Dark Default theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/github-dark-default.png)
-
-### GitHub Dark Default Unbordered
-
-![Vine: GitHub Dark Default Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/github-dark-default-unbordered.png)
 
 ### Graphite
 
 ![Vine: Graphite theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/graphite.png)
 
-### Graphite Unbordered
+### JetBrains New UI
 
-![Vine: Graphite Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/graphite-unbordered.png)
+Inspired by JetBrains’ dark theme, with orange keywords, green strings, teal numbers, and purple fields.
+
+![Vine: JetBrains New UI theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/jetbrains-new-ui.png)
+
+### Night Owl
+
+A muted slate-blue workspace with purple keywords, warm amber strings, blue functions, and soft mint-green built-ins.
+
+![Vine: Night Owl theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/night-owl.png)
 
 ### Poimandres
 
 ![Vine: Poimandres theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/poimandres.png)
 
-### Poimandres Unbordered
-
-![Vine: Poimandres Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/poimandres-unbordered.png)
-
 ### Rosé Pine Neutral
 
 ![Vine: Rosé Pine Neutral theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/rose-pine-neutral.png)
-
-### Rosé Pine Neutral Unbordered
-
-![Vine: Rosé Pine Neutral Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/rose-pine-neutral-unbordered.png)
 
 ### Sublime Text 4 Dark
 
 ![Vine: Sublime Text 4 Dark theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/sublime-text-4-dark.png)
 
-### Sublime Text 4 Dark Unbordered
-
-![Vine: Sublime Text 4 Dark Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/sublime-text-4-dark-unbordered.png)
-
 ### Tokyo Night
 
 ![Vine: Tokyo Night theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/tokyo-night.png)
 
-### Tokyo Night Unbordered
-
-![Vine: Tokyo Night Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/tokyo-night-unbordered.png)
-
 ### Vesper
 
-Near-black editor with white code, orange declarations, and peppermint strings. Deeper outer shell with subtle workspace borders.
+Near-black editor with white code, orange declarations, and peppermint strings.
 
-### Vesper Unbordered
-
-The same palette with the sidebar, panel, and editor surfaces blended together.
+![Vine: Vesper theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/vesper.png)
 
 ### Xcode 26 Dark
 
 ![Vine: Xcode 26 Dark theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/xcode-26-dark.png)
-
-### Xcode 26 Dark Unbordered
-
-![Vine: Xcode 26 Dark Unbordered theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/xcode-26-dark-unbordered.png)
 
 # Thanks
 
@@ -119,3 +107,6 @@ Thanks to these projects and their authors for the themes and palettes that insp
 - [Firefox DevTools](https://firefox-source-docs.mozilla.org/devtools-user/)
 - [GitHub / Primer](https://github.com/primer/github-vscode-theme)
 - [Vesper](https://github.com/raunofreiberg/vesper)
+- [Atom One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax)
+- [JetBrains](https://www.jetbrains.com/)
+- [Night Owl](https://github.com/sdras/night-owl-vscode-theme)

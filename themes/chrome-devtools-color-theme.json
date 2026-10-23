@@ -246,7 +246,7 @@
     "editorBracketHighlight.foreground6": "#a8c7fa",
     "editorBracketHighlight.unexpectedBracket.foreground": "#f2b8b5",
     "activityBar.border": "#202121",
-    "editorGroupHeader.tabsBorder": "#00000000",
+    "editorGroupHeader.tabsBorder": "#202121",
     "surface.border": "#202121",
     "editor.border": "#202121",
     "modernPanel.border": "#202121",

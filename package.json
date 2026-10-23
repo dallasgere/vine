@@ -2,8 +2,8 @@
   "name": "vine-theme",
   "displayName": "Vine Theme Pack",
   "icon": "assets/vine.png",
-  "description": "A collection of dark VS Code themes inspired by favorite editor palettes, with bordered and unbordered variants.",
-  "version": "4.10.0",
+  "description": "A collection of dark VS Code themes inspired by favorite editor palettes, with bordered, unbordered, and uniform variants.",
+  "version": "5.0.0",
   "publisher": "dallasgere",
   "license": "MIT",
   "engines": {
@@ -20,7 +20,11 @@
     "accessibility",
     "poimandres",
     "graphite",
-    "vesper"
+    "vesper",
+    "jetbrains",
+    "night owl",
+    "atom",
+    "one dark"
   ],
   "repository": {
     "type": "git",
@@ -39,6 +43,11 @@
         "path": "./themes/poimandres-unbordered-color-theme.json"
       },
       {
+        "label": "Vine: Poimandres Uniform",
+        "uiTheme": "vs-dark",
+        "path": "./themes/poimandres-uniform-color-theme.json"
+      },
+      {
         "label": "Vine: Dark Modern 2026",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-modern-2026-color-theme.json"
@@ -47,6 +56,11 @@
         "label": "Vine: Dark Modern 2026 Unbordered",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-modern-2026-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: Dark Modern 2026 Uniform",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-modern-2026-uniform-color-theme.json"
       },
       {
         "label": "Vine: Tokyo Night",
@@ -59,6 +73,11 @@
         "path": "./themes/tokyo-night-unbordered-color-theme.json"
       },
       {
+        "label": "Vine: Tokyo Night Uniform",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night-uniform-color-theme.json"
+      },
+      {
         "label": "Vine: Chrome DevTools",
         "uiTheme": "vs-dark",
         "path": "./themes/chrome-devtools-color-theme.json"
@@ -67,6 +86,11 @@
         "label": "Vine: Chrome DevTools Unbordered",
         "uiTheme": "vs-dark",
         "path": "./themes/chrome-devtools-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: Chrome DevTools Uniform",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chrome-devtools-uniform-color-theme.json"
       },
       {
         "label": "Vine: Sublime Text 4 Dark",
@@ -79,6 +103,11 @@
         "path": "./themes/sublime-text-4-dark-unbordered-color-theme.json"
       },
       {
+        "label": "Vine: Sublime Text 4 Dark Uniform",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sublime-text-4-dark-uniform-color-theme.json"
+      },
+      {
         "label": "Vine: Firefox DevTools",
         "uiTheme": "vs-dark",
         "path": "./themes/firefox-devtools-color-theme.json"
@@ -87,6 +116,11 @@
         "label": "Vine: Firefox DevTools Unbordered",
         "uiTheme": "vs-dark",
         "path": "./themes/firefox-devtools-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: Firefox DevTools Uniform",
+        "uiTheme": "vs-dark",
+        "path": "./themes/firefox-devtools-uniform-color-theme.json"
       },
       {
         "label": "Vine: GitHub Dark Default",
@@ -99,6 +133,11 @@
         "path": "./themes/github-dark-default-unbordered-color-theme.json"
       },
       {
+        "label": "Vine: GitHub Dark Default Uniform",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-dark-default-uniform-color-theme.json"
+      },
+      {
         "label": "Vine: Graphite",
         "uiTheme": "vs-dark",
         "path": "./themes/graphite-color-theme.json"
@@ -107,6 +146,11 @@
         "label": "Vine: Graphite Unbordered",
         "uiTheme": "vs-dark",
         "path": "./themes/graphite-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: Graphite Uniform",
+        "uiTheme": "vs-dark",
+        "path": "./themes/graphite-uniform-color-theme.json"
       },
       {
         "label": "Vine: Ros\u00e9 Pine Neutral",
@@ -119,6 +163,11 @@
         "path": "./themes/rose-pine-neutral-unbordered-color-theme.json"
       },
       {
+        "label": "Vine: Ros\u00e9 Pine Neutral Uniform",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rose-pine-neutral-uniform-color-theme.json"
+      },
+      {
         "label": "Vine: Vesper",
         "uiTheme": "vs-dark",
         "path": "./themes/vesper-color-theme.json"
@@ -129,6 +178,11 @@
         "path": "./themes/vesper-unbordered-color-theme.json"
       },
       {
+        "label": "Vine: Vesper Uniform",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vesper-uniform-color-theme.json"
+      },
+      {
         "label": "Vine: Xcode 26 Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/xcode-26-dark-color-theme.json"
@@ -137,6 +191,56 @@
         "label": "Vine: Xcode 26 Dark Unbordered",
         "uiTheme": "vs-dark",
         "path": "./themes/xcode-26-dark-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: Xcode 26 Dark Uniform",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xcode-26-dark-uniform-color-theme.json"
+      },
+      {
+        "label": "Vine: JetBrains New UI",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jetbrains-new-ui-color-theme.json"
+      },
+      {
+        "label": "Vine: JetBrains New UI Unbordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jetbrains-new-ui-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: JetBrains New UI Uniform",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jetbrains-new-ui-uniform-color-theme.json"
+      },
+      {
+        "label": "Vine: Night Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-owl-color-theme.json"
+      },
+      {
+        "label": "Vine: Night Owl Unbordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-owl-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: Night Owl Uniform",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-owl-uniform-color-theme.json"
+      },
+      {
+        "label": "Vine: Atom One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atom-one-dark-color-theme.json"
+      },
+      {
+        "label": "Vine: Atom One Dark Unbordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atom-one-dark-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: Atom One Dark Uniform",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atom-one-dark-uniform-color-theme.json"
       }
     ]
   }

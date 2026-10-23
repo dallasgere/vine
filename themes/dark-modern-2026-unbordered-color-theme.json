@@ -190,7 +190,6 @@
     "list.invalidItemForeground": "#444444",
     "list.errorForeground": "#f48771",
     "list.warningForeground": "#e5ba7d",
-    "activityBar.activeBackground": "#2F3133",
     "activityBar.activeFocusBorder": "#3994BCB3",
     "activityBarTop.activeBorder": "#bfbfbf",
     "menubar.selectionBackground": "#28292A",
