@@ -3,7 +3,7 @@
   "displayName": "Vine Theme Pack",
   "icon": "assets/vine.png",
   "description": "A collection of dark VS Code themes inspired by favorite editor palettes, with bordered, unbordered, and uniform variants.",
-  "version": "5.3.0",
+  "version": "5.4.0",
   "publisher": "dallasgere",
   "license": "MIT",
   "engines": {

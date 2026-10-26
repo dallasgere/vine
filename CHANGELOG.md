@@ -1,5 +1,10 @@
 # Changelog
 
+## 5.4.0 — Unreleased
+
+- Reworked Graphite as a neutral black-and-white theme across Bordered, Unbordered, and Uniform. The blue-gray surfaces are replaced with the Dark Modern 2026 backgrounds (editor `#17181A`, shell `#121314`, widgets `#242527`, tabs `#2F3133`), all grays and accents are desaturated, and git, diff, and info colors are muted toward neutral.
+- Rebuilt Graphite syntax highlighting as four calm tiers: keywords in soft white (`#D9D9D9`, including `new`, `typeof`, and `instanceof`), all other code (functions, types, variables, properties, numbers, tags) in one soft light gray, strings in mid-gray, and punctuation, operators, and comments in a quiet gray (`#808080`, about 4.5:1 contrast).
+
 ## 5.3.0 — 2026-10-23
 
 - Made the diff editor gutter backgrounds transparent across all 42 themes so added and removed lines both start at the code instead of tinting the line-number gutter.
