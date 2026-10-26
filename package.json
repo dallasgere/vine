@@ -3,7 +3,7 @@
   "displayName": "Vine Theme Pack",
   "icon": "assets/vine.png",
   "description": "A collection of dark VS Code themes inspired by favorite editor palettes, with bordered, unbordered, and uniform variants.",
-  "version": "5.4.0",
+  "version": "5.5.0",
   "publisher": "dallasgere",
   "license": "MIT",
   "engines": {
@@ -19,7 +19,9 @@
     "contrast",
     "accessibility",
     "poimandres",
-    "graphite",
+    "b&w",
+    "min",
+    "black and white",
     "vesper",
     "jetbrains",
     "night owl",
@@ -138,19 +140,34 @@
         "path": "./themes/github-dark-default-uniform-color-theme.json"
       },
       {
-        "label": "Vine: Graphite",
+        "label": "Vine: B&W",
         "uiTheme": "vs-dark",
-        "path": "./themes/graphite-color-theme.json"
+        "path": "./themes/bw-color-theme.json"
       },
       {
-        "label": "Vine: Graphite Unbordered",
+        "label": "Vine: B&W Unbordered",
         "uiTheme": "vs-dark",
-        "path": "./themes/graphite-unbordered-color-theme.json"
+        "path": "./themes/bw-unbordered-color-theme.json"
       },
       {
-        "label": "Vine: Graphite Uniform",
+        "label": "Vine: B&W Uniform",
         "uiTheme": "vs-dark",
-        "path": "./themes/graphite-uniform-color-theme.json"
+        "path": "./themes/bw-uniform-color-theme.json"
+      },
+      {
+        "label": "Vine: Min",
+        "uiTheme": "vs-dark",
+        "path": "./themes/min-color-theme.json"
+      },
+      {
+        "label": "Vine: Min Unbordered",
+        "uiTheme": "vs-dark",
+        "path": "./themes/min-unbordered-color-theme.json"
+      },
+      {
+        "label": "Vine: Min Uniform",
+        "uiTheme": "vs-dark",
+        "path": "./themes/min-uniform-color-theme.json"
       },
       {
         "label": "Vine: Ros\u00e9 Pine Neutral",

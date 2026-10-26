@@ -1,6 +1,13 @@
 # Changelog
 
-## 5.4.0 — Unreleased
+## 5.5.0 — 2026-10-26
+
+- Added B&W in Bordered, Unbordered, and Uniform: neutral near-black surfaces (editor `#101011`), soft-white code (`#EBEBEB`), quieter comments (`#9A9A9A`), a white UI accent, and familiar status colors.
+- Added Min in Bordered, Unbordered, and Uniform: cool charcoal surfaces (editor `#16181D`), uniform cool off-white code (`#D8DCE3`), quieter comments (`#9CA3AD`), and a soft blue UI accent (`#8FB4E3`). All syntax stays upright and regular-weight.
+- Retired Graphite and its variants in favor of Min. Existing Graphite users should select Min in the color theme picker. The pack now includes fifteen palettes and 45 themes.
+- Refined B&W and Min selection and search fills for readable comments and deprecated text. Matched TextMate and semantic highlighting, reset embedded expressions and JSON keys, retained familiar diff colors, and added visible secondary-button hover states across all three variants.
+
+## 5.4.0 — 2026-10-25
 
 - Reworked Graphite as a neutral black-and-white theme across Bordered, Unbordered, and Uniform. The blue-gray surfaces are replaced with the Dark Modern 2026 backgrounds (editor `#17181A`, shell `#121314`, widgets `#242527`, tabs `#2F3133`), all grays and accents are desaturated, and git, diff, and info colors are muted toward neutral.
 - Rebuilt Graphite syntax highlighting as four calm tiers: keywords in soft white (`#D9D9D9`, including `new`, `typeof`, and `instanceof`), all other code (functions, types, variables, properties, numbers, tags) in one soft light gray, strings in mid-gray, and punctuation, operators, and comments in a quiet gray (`#808080`, about 4.5:1 contrast).

@@ -13,7 +13,7 @@ So yea I basically wanted to create themes that all followed a similar design pa
 
 Feel free to improve these and open issues if something is off.
 
-Version 5.1.0 includes fourteen palettes, each with bordered, unbordered, and uniform variants, for 42 themes total.
+Version 5.5.0 includes fifteen palettes, each with bordered, unbordered, and uniform variants, for 45 themes total.
 
 ## Variants
 
@@ -25,6 +25,8 @@ Every palette is available in three variants:
 
 All three share the same syntax colors, editor background, and text styling.
 
+Graphite has been retired in favor of **Min**, our cool charcoal option with uniform code. If you previously selected Graphite, choose Min from the color theme picker.
+
 ## Screenshots
 
 Each screenshot shows the standard Bordered variant. Unbordered and Uniform versions are available for every palette.
@@ -34,6 +36,10 @@ Each screenshot shows the standard Bordered variant. Unbordered and Uniform vers
 Adapted from Atom’s original palette, with neutral operators, cyan built-ins, red variables, and readable comments.
 
 ![Vine: Atom One Dark theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/atom-one-dark.png)
+
+### B&W
+
+A near-black, neutral workspace with soft white code, a white accent, and richer status colors. Screenshot to come.
 
 ### Chrome DevTools
 
@@ -51,15 +57,15 @@ Adapted from Atom’s original palette, with neutral operators, cyan built-ins, 
 
 ![Vine: GitHub Dark Default theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/github-dark-default.png)
 
-### Graphite
-
-![Vine: Graphite theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/graphite.png)
-
 ### JetBrains New UI
 
 Inspired by JetBrains’ dark theme, with orange keywords, green strings, teal numbers, and purple fields.
 
 ![Vine: JetBrains New UI theme screenshot](https://raw.githubusercontent.com/dallasgere/vine/main/screenshots/jetbrains-new-ui.png)
+
+### Min
+
+A cool charcoal theme with uniform cool-white code, quieter comments, a soft blue UI accent, and coordinated workspace grays. Screenshot to come.
 
 ### Night Owl
 
